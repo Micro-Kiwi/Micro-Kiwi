@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Micro-Kiwi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on video games
+- 💞️ I’m looking to collaborate on making video games
 - 🐧 I like penguins 🐧 🐧 🐧 🐧 🐧 
 - 🐇 The video game I am currently working on is called Life Of Dust
 
